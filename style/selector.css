@@ -1,0 +1,24 @@
+.sub1{
+    padding: 20px;
+    background-color: coral;
+    width: 110px;
+    height: 110px;
+}
+.sub2{
+    background-color: darkseagreen;
+    
+}
+.sub3{
+    background-color: darkslategray;
+    
+    
+}
+.main{
+    display: flex;
+    justify-content:space-around ;
+    /* flex-direction: row-reverse; */
+    text-align: center;
+    height: 500px;
+    align-items:center ;
+
+}
